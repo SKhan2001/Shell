@@ -1,4 +1,5 @@
 Shell.c
+
 shell.c is a C-based application that mimics the bash terminal. It allows users to execute programs, move jobs to the foreground or background, kill jobs, and navigate through directories using the ls and ls -l commands.
 
 How it works
